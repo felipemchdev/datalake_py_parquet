@@ -1,0 +1,34 @@
+id,nome,categoria,preco,quantidade,data_cadastro,fornecedor,codigo_barras,descricao,em_estoque
+1,Smartphone Galaxy S21,Eletrônicos,3999.90,45,2023-01-15,Samsung,789012345678,Smartphone premium com câmera de alta resolução,true
+2,Notebook Dell Inspiron,Informática,4599.00,32,2023-01-18,Dell,567890123456,Notebook para uso profissional com processador i7,true
+3,Smart TV 55" 4K,Eletrônicos,2899.90,28,2023-01-20,LG,345678901234,TV com resolução 4K e sistema operacional webOS,true
+4,Fone de Ouvido Bluetooth,Acessórios,199.90,120,2023-01-22,JBL,123456789012,Fone sem fio com cancelamento de ruído,true
+5,Cafeteira Elétrica,Eletrodomésticos,249.90,60,2023-01-25,Philips,901234567890,Cafeteira com capacidade para 12 xícaras,true
+6,Tênis Running,Esportes,299.90,75,2023-01-28,Nike,678901234567,Tênis para corrida com amortecimento,true
+7,Livro "Algoritmos",Livros,89.90,50,2023-02-01,Editora Campus,456789012345,Livro sobre algoritmos e estruturas de dados,true
+8,Mouse Gamer,Informática,179.90,90,2023-02-03,Logitech,234567890123,Mouse com 6 botões programáveis e RGB,true
+9,Cadeira de Escritório,Móveis,599.90,25,2023-02-05,Flexform,012345678901,Cadeira ergonômica com ajuste de altura,true
+10,Liquidificador,Eletrodomésticos,149.90,40,2023-02-08,Mondial,890123456789,Liquidificador com 5 velocidades e função pulsar,true
+11,Monitor 27" Full HD,Informática,1299.90,35,2023-02-10,AOC,678901234567,Monitor com painel IPS e taxa de atualização de 75Hz,true
+12,Teclado Mecânico,Informática,349.90,60,2023-02-12,Redragon,456789012345,Teclado mecânico com switches blue,true
+13,Mochila para Notebook,Acessórios,159.90,80,2023-02-15,Samsonite,234567890123,Mochila com compartimento acolchoado para notebook,true
+14,Fritadeira Elétrica Airfryer,Eletrodomésticos,399.90,30,2023-02-18,Philco,012345678901,Fritadeira sem óleo com capacidade de 4L,true
+15,Caixa de Som Bluetooth,Eletrônicos,299.90,55,2023-02-20,JBL,890123456789,Caixa de som portátil à prova d'água,true
+16,Relógio Smartwatch,Eletrônicos,599.90,40,2023-02-22,Xiaomi,678901234567,Relógio inteligente com monitor cardíaco,true
+17,Panela de Pressão Elétrica,Eletrodomésticos,349.90,25,2023-02-25,Electrolux,456789012345,Panela elétrica multifunções,true
+18,Câmera Digital,Eletrônicos,1899.90,20,2023-02-28,Canon,234567890123,Câmera DSLR com lente 18-55mm,true
+19,Ventilador de Mesa,Eletrodomésticos,129.90,70,2023-03-02,Arno,012345678901,Ventilador com 3 velocidades e oscilação,true
+20,Jogo de Panelas,Utilidades Domésticas,299.90,30,2023-03-05,Tramontina,890123456789,Conjunto com 5 panelas antiaderentes,true
+21,Bicicleta Mountain Bike,Esportes,1499.90,15,2023-03-08,Caloi,678901234567,Bicicleta aro 29 com 21 marchas,true
+22,Impressora Multifuncional,Informática,899.90,25,2023-03-10,HP,456789012345,Impressora com scanner e Wi-Fi,true
+23,Colchão Casal,Móveis,1299.90,20,2023-03-12,Ortobom,234567890123,Colchão de espuma D33 com 25cm de altura,true
+24,Micro-ondas 30L,Eletrodomésticos,599.90,35,2023-03-15,Brastemp,012345678901,Micro-ondas com grill e painel digital,true
+25,Aspirador de Pó,Eletrodomésticos,349.90,40,2023-03-18,Electrolux,890123456789,Aspirador com filtro HEPA e 1800W de potência,true
+26,Tablet 10",Eletrônicos,1299.90,30,2023-03-20,Samsung,678901234567,Tablet com 64GB de armazenamento e tela HD,true
+27,Conjunto de Facas,Utilidades Domésticas,199.90,45,2023-03-22,Tramontina,456789012345,Kit com 6 facas de aço inox,true
+28,Secador de Cabelo,Beleza,159.90,60,2023-03-25,Taiff,234567890123,Secador com 2000W e 2 velocidades,true
+29,Churrasqueira Elétrica,Eletrodomésticos,249.90,25,2023-03-28,Fischer,012345678901,Churrasqueira com bandeja coletora de gordura,true
+30,Forno Elétrico,Eletrodomésticos,399.90,30,2023-04-01,Philco,890123456789,Forno com capacidade de 36L e timer,true
+31,Headset Gamer,Informática,249.90,50,2023-04-03,HyperX,678901234567,Headset com microfone removível e som surround,true
+32,Máquina de Lavar 12kg,Eletrodomésticos,1899.90,20,2023-04-05,Brastemp,456789012345,Lavadora com 12 programas de lavagem,true
+33,Guarda-roupa 6 Portas,Móveis,1499.90,15,2023-04-08,Madesa,234567890123,Guarda-roupa com espelho e gavetas,true
